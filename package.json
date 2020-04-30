@@ -23,7 +23,7 @@
   "homepage": "https://github.com/avbenedicto/-Coursera-Week-1-Assignment-1#readme",
   "dependencies": {
     "bootstrap": "^4.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.12.9"
   }
 }
